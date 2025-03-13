@@ -1,7 +1,7 @@
 # Calculator Android App
 This is a calculator app developed as an introduction to Android app development using Java in Android Studio.
 
-## Functionality
+## Overview
 
 The core functionality of this Calculator app is implemented in ```app/src/main/java/com/example/calculator/MainActivity.java```.
 
