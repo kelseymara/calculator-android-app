@@ -1,6 +1,19 @@
 # Calculator Android App
 This is a calculator app developed as an introduction to Android app development using Java in Android Studio.
 
+## Functionality
+
+The core functionality of this Calculator app is implemented in ```app/src/main/java/com/example/calculator/MainActivity.java```.
+
+### User Input
+
+The app collects two numbers from the user via two input fields (EditText widgets).
+
+### Arithmetic Operations
+
+The app supports four basic arithmetic operations: Addition, Subtraction, Multiplication, and Division. Each operation is triggered by its respective button. After the operation is performed, the result is displayed in a TextView.
+
+
 ## How to run
 1. Clone the repository
 2. Open folder in Android Studio
